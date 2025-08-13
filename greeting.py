@@ -17,10 +17,13 @@ print("I am learning Python")
 # mapping
 # boolean
 # set
+# the numeric data type is used to hold numeric values.
 age1 = 22
 print(type(age1))
 hobby = "coding"
 print(type(hobby))
+languages = ["Python", "Dart", "Web", 23]
+print(type(languages))
 
 city = "lagos"
 print(city.upper())
