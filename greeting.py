@@ -10,6 +10,23 @@ print(name, age, height, is_student)
 print("I am learning Python")
 
 # datatypes
+# data types specify the type of data that can be stored inside a variable.
+# numeric
+# string
+# sequence
+# mapping
+# boolean
+# set
+age1 = 22
+print(type(age1))
+hobby = "coding"
+print(type(hobby))
+
 city = "lagos"
 print(city.upper())
 print(len(city))
+print(city.lower())
+print(city.title())
+
+# operators in python
+print(2*3)
