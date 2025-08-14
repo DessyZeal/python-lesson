@@ -47,4 +47,12 @@ print(city.lower())
 print(city.title())
 
 # operators in python
+# operators perform operations on variables and values.
+# Types of operators
+# Arithmetic operators -, +, *, /, %, //, **
+# Assignment Operators =, +=, -=, *=, /=, %=, //=, **=
+# Comparison Operators
+# Logical Operators
+# Bitwise Operators
+# Special Operators
 print(2*3)
