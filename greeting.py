@@ -20,10 +20,18 @@ print("I am learning Python")
 # the numeric data type is used to hold numeric values.
 age1 = 22
 print(type(age1))
+# example for string
 hobby = "coding"
 print(type(hobby))
+# example for sequence
 languages = ["Python", "Dart", "Web", 23]
 print(type(languages))
+# example for mapping
+person = {
+    "name": "Desire",
+    "age": 21,
+    "is_student": True
+}
 
 city = "lagos"
 print(city.upper())
