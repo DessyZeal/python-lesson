@@ -32,6 +32,13 @@ person = {
     "age": 21,
     "is_student": True
 }
+print(type(person))
+# example for boolean
+is_student = True
+print(type(is_student))
+# example for set
+fruits = {"apple", "banana", "cherry"}
+print(type(fruits))
 
 city = "lagos"
 print(city.upper())
