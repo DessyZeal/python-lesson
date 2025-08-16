@@ -17,11 +17,5 @@ print("x:", x, "y:", y, "z:", z)
 name = input("Enter your Name:")
 color = input("Enter your favourite color:")
 print( "Hello,", name,"!," "Your favorite color,", color, "is awesome!")
-
-# Simple Quiz Game 🎮
-# Create a multiple-choice quiz with questions about Python, movies, or any fun topic! Display scores at the end and allow the user to play again. 🏆
-
-
-# Random Joke Generator 🤣
-# Build a program that stores a list of jokes and randomly selects one to display every time the user runs it. Add a fun twist with jokes about Python or programming! 🐍💡
+print("I am learning python")
 
