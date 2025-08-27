@@ -11,15 +11,8 @@ print(my_list[-3:])
 # printing elements from index 5 to the end
 print(my_list[5:])
 
-def greet_names(names):
-    for name in names:
-        print(f"hello[{name}]")
-
-# Example usage:
-names_list = ["Alice", "Bob", "Charlie"]
-greet_names(names_list)
 
 # iterating through a python list
-languages['Python' 'C++' 'swift']
+languages = ['Python', 'C++', 'Swift']
 for language in languages:
-print(language)
+    print(language)
