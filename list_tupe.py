@@ -22,3 +22,11 @@ print(favFruits[1])
 # set lists
 numbers = [1,2,3,4,5,6]
 print(numbers)
+# list tuple
+var1 = ("Hello!",)
+print(type(var1))
+# acessing elements of a tuple list
+Alpha = ('a', 'b', 'c', 'd', 'e', 'f', 'g')
+print(Alpha[3])
+print(Alpha.count('c')) # counts total number of the letter in the list
+# python tuple method
