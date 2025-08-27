@@ -16,3 +16,9 @@ print(my_list[5:])
 languages = ['Python', 'C++', 'Swift']
 for language in languages:
     print(language)
+# normal mutable is
+favFruits = ['Friedrice', 'Plantain', 'Rice']
+print(favFruits[1])
+# set lists
+numbers = [1,2,3,4,5,6]
+print(numbers)
