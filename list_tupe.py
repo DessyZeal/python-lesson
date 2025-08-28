@@ -23,10 +23,26 @@ print(favFruits[1])
 numbers = [1,2,3,4,5,6]
 print(numbers)
 # list tuple
-var1 = ("Hello!",)
+var1 = ("Hello!")
 print(type(var1))
 # acessing elements of a tuple list
+# python tuple method
 Alpha = ('a', 'b', 'c', 'd', 'e', 'f', 'g')
 print(Alpha[3])
 print(Alpha.count('c')) # counts total number of the letter in the list
-# python tuple method
+print(Alpha.index('d'))
+# dict lists
+# they are in key value pairs
+capitalCities = {"Abia": "Umuahia", "Ebonyi": "Abakaliki"}
+print(capitalCities)
+numbersData = {1: "One", 2:"Two"}
+# adding elements to a python dict list
+numbersData[3] = "Three"
+print(numbersData)
+# change value of dict
+student_id = {111: "Lovely", 112: "Abbey", 113: "Sure"}
+print(student_id)
+student_id[114] = "Precious"
+print(student_id)
+# acessing the elements in a dict list
+print(student_id[112])

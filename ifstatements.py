@@ -15,5 +15,5 @@ dice = random.randint(1, 6)
 print ("You rolled a", dice)
 if dice == 6:
     print('You got 6 🎉')
-    else:
+else:
     print('You did not get 6 😞')
