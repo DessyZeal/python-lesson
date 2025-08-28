@@ -1,0 +1,1 @@
+# writing an if statement thhat when a person is above 18 show adult
