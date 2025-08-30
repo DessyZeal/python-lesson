@@ -48,4 +48,6 @@ print(student_id)
 print(student_id[112])
 # membership test for dictionary keys
 squares = {1: 1, 2: 6, 3: 9, 4: 8, 5: 10}
-
+print(1 in squares)
+for i in squares:
+    print(squares[i])
