@@ -46,3 +46,6 @@ student_id[114] = "Precious"
 print(student_id)
 # acessing the elements in a dict list
 print(student_id[112])
+# membership test for dictionary keys
+squares = {1: 1, 2: 6, 3: 9, 4: 8, 5: 10}
+
