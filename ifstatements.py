@@ -17,3 +17,4 @@ if dice == 6:
     print('You got 6 🎉')
 else:
     print('You did not get 6 😞')
+
