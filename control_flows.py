@@ -27,5 +27,8 @@ else:
     print("Grade: F")
 # Example of a for loop
 Fruits = ["Apple", "Banana", "Cherry"]
-for fruit in Fruits:
-    print(f"I love {fruit} !")
+for veggie in Fruits:
+    print(f"I love {veggie}!")
+# A for keyword indicates the start of a for loop.
+# in the above example the temporary variable is the veggie
+# An in keyword separates the temporary variable from the collection used for iteration
